@@ -36,7 +36,7 @@ fun copyToClipboard(text: String) {
 
 
 fun createUI() {
-    val frame = JFrame("Image Scrape")
+    val frame = JFrame("Image Scraper")
     frame.defaultCloseOperation = JFrame.EXIT_ON_CLOSE
     frame.setSize(600, 300)
 
